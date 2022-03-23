@@ -1,7 +1,3 @@
-Terraform Local
-```
-https://github.com/huan11/tf-repo.git//terraform-local-tf?ref=main
-```
 Aliyun
 ```
 https://github.com/huan11/tf-repo.git//aliyun-tf?ref=main
