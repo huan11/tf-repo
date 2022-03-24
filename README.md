@@ -10,6 +10,10 @@ Azure
 ```
 https://github.com/huan11/tf-repo.git//azure-tf?ref=main
 ```
+Google Cloud Platform
+```
+https://github.com/huan11/tf-repo.git//gcp-tf?ref=main
+```
 IBMCloud
 ```
 https://github.com/huan11/tf-repo.git//ibmcloud-tf?ref=main
